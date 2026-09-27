@@ -7,6 +7,7 @@
 - SQL
 - Power BI
 - Data Analytics
+- Software Developer 
 
 ## Current Projects
 - Pharmacy SQL Analytics
@@ -18,3 +19,4 @@
 - Power BI
 - Git & GitHub
 - JavaScript
+- Python
