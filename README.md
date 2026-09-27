@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Vy Nguyen
 
-<!--
-**VyNguyenMtl/VyNguyenMtl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💊 Pharmacy Technician with 8 years of experience.
 
-Here are some ideas to get you started:
+💻 Currently transitioning into:
+- Healthcare Informatics
+- SQL
+- Power BI
+- Data Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- Pharmacy SQL Analytics
+- Power BI Healthcare Dashboards
+- EMR Data Exploration
+
+## Technologies
+- SQL
+- Power BI
+- Git & GitHub
+- JavaScript
